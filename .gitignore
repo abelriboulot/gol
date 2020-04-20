@@ -10,6 +10,7 @@ __pycache__/
 .Python
 .idea/
 build/
+data/
 develop-eggs/
 dist/
 downloads/
